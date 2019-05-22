@@ -1,0 +1,22 @@
+{
+  "name": "branch-name",
+  "version": "0.0.1",
+  "description": "Git branch names sanitizer",
+  "main": "index.js",
+  "repository": "git@github.com:pwlmaciejewski/branch-name.git",
+  "author": "Paweł Maciejewski <1276139+pwlmaciejewski@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "bin": {
+    "branch-name": "./index.js"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
