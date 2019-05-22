@@ -1,16 +1,16 @@
-# branch-name
+# branch-safe-name
 
 Git branch names sanitizer
 
 ## Installation
 
 ```bash
-yarn global add branch-name
+yarn global add branch-safe-name
 ```
 
 ## Usage
 
 ```bash
-$ branch-name -l -s '-' Some long string that you copy-pasted from the browser
-some-long-string-that-you-copy-pasted-from-the-browser
+$ branch-safe-name -l -s '-' Some long string that you copy-pasted from a browser
+some-long-string-that-you-copy-pasted-from-a-browser
 ```
