@@ -14,7 +14,7 @@
     "branch-safe-name": "./index.js"
   },
   "devDependencies": {
-    "jest": "24.8.0"
+    "jest": "24.9.0"
   },
   "scripts": {
     "test": "jest"
