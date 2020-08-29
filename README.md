@@ -5,7 +5,7 @@ Git branch names sanitizer
 ## Installation
 
 ```bash
-yarn global add branch-safe-name
+npm i -g branch-safe-name
 ```
 
 ## Basic usage
