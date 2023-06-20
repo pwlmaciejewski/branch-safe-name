@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "yargs": "^15.0.0"
+    "yargs": "^17.0.0"
   },
   "bin": {
     "branch-safe-name": "./index.js"
